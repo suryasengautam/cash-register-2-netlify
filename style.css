@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+html {
+    font-family: 'Creepster', cursive;
+    font-size: 1.3em;
+}
+
+.container {
+    text-align: center;
+}
+
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+table, th, td {
+    border: 1px solid black;
+    color: royalblue;
+    padding: 1em;
+}
+
+#check-button{
+    font-family: 'Creepster', cursive;
+
+}
+
+#bill-amount{
+    font-family: 'Creepster', cursive;
+
+}
+#cash-given{
+    font-family: 'Creepster', cursive;
+}
